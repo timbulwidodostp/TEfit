@@ -1,6 +1,8 @@
 # TEfit
 Streamlined nonlinear regression Use TEfit (TEfits) With (In) R Software
 
+https://www.youtube.com/watch?v=wiIWyCsaV4A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
